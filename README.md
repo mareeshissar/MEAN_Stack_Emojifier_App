@@ -6,6 +6,11 @@ This repo contains the starter code for the workshop Intro to the MEAN Stack Pow
 ## The MEAN Stack
 The MEAN Stack is a set of JavaScript web technologies — MongoDB, Express, Angular, and Node. MongoDB is a popular database for web applications, Express and Node are used for handling requests and responses, and Angular is a framework for front-end development
 
+## Use
+### Clone this repository
+Use the following:
+
+`git clone https://github.com/mareeshissar/MEAN_stack_deploy.git`
 
 Demo image link:
 
