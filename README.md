@@ -1,12 +1,11 @@
-# mlh-localhost-emojifier-code
+## The Emojifier App
+A web application that allows users to paste the URL of an image. The app will run sentiment analysis on the image, determine the facial emotions of the people in the image, and replace their faces with the appropriate emojis 🔥🔥🔥😎🔥🔥🔥
 
-This repo contains the starter code for the workshop Intro to the MEAN Stack Powered by Blackrock. 
+This repo contains the starter code for the workshop Intro to the MEAN Stack Powered by Blackrock hosted by [MLH](https://mlh.io/)
 
 ## The MEAN Stack
-The MEAN Stack is a set of JavaScript web technologies — MongoDB, Express, Angular, and Node. MongoDB is a popular database for web applications, Express and Node are used for handling requests and responses, and Angular is a framework for front-end development.
+The MEAN Stack is a set of JavaScript web technologies — MongoDB, Express, Angular, and Node. MongoDB is a popular database for web applications, Express and Node are used for handling requests and responses, and Angular is a framework for front-end development
 
-## The Emojifier App
-A web app that allows users to paste the URL of an image. The app will run sentiment analysis on the image, determine the facial emotions of the people in the image, and replace their faces with the appropriate emojis 🔥🔥🔥😎🔥🔥🔥.
 
 Demo image link:
 
