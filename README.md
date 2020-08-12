@@ -10,7 +10,9 @@ The MEAN Stack is a set of JavaScript web technologies — MongoDB, Express, Ang
 ### Clone this repository
 Use the following:
 
-`git clone https://github.com/mareeshissar/MEAN_stack_deploy.git`
+```shell
+git clone https://github.com/mareeshissar/MEAN_stack_deploy.git
+```
 
 Demo image link:
 
