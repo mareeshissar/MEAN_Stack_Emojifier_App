@@ -13,19 +13,22 @@ Use the following:
 ```shell
 git clone https://github.com/mareeshissar/MEAN_stack_deploy.git
 ```
-
-Demo image link:
-
-https://docs.microsoft.com/en-ca/azure/cognitive-services/face/images/facefindsimilar.queryface.jpg
-
 Command for Loading the website on port 4200 instead of 3000:
 
-`npm i @angular-devkit/build-angular@0.803.24`
-
+```shell
+npm i @angular-devkit/build-angular@0.803.24
+```
 Command for starting MongoDB in background (local host setup):
 
-`"C:\Program Files\MongoDB\Server\4.0\bin\mongod.exe" --dbpath="c:\data\mongodb"`
+```shell
+"C:\Program Files\MongoDB\Server\4.0\bin\mongod.exe" --dbpath="c:\data\mongodb"
+```
 
 Command for starting NodeJS application (in Windows):
 
-`npm run start-win`
+```shell
+npm run start-win
+```
+Demo image link:
+
+https://docs.microsoft.com/en-ca/azure/cognitive-services/face/images/facefindsimilar.queryface.jpg
