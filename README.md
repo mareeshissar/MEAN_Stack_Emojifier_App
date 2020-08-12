@@ -1,4 +1,4 @@
-## The Emojifier App
+## The Emojifier Application
 A web application that allows users to paste the URL of an image. The app will run sentiment analysis on the image, determine the facial emotions of the people in the image, and replace their faces with the appropriate emojis 🔥🔥🔥😎🔥🔥🔥
 
 This repo contains the starter code for the workshop Intro to the MEAN Stack Powered by Blackrock hosted by [MLH](https://mlh.io/)
