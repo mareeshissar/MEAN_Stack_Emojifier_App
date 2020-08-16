@@ -11,7 +11,7 @@ The MEAN Stack is a set of JavaScript web technologies — MongoDB, Express, Ang
 Use the following:
 
 ```shell
-git clone https://github.com/mareeshissar/MEAN_stack_deploy.git
+git clone https://github.com/mareeshissar/MEAN_Stack_Emojifier_App.git
 ```
 Command for Loading the website on port 4200 instead of 3000:
 
